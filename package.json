@@ -1,0 +1,16 @@
+{
+  "name": "palindromes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine --reporter=jasmine-terminal-reporter src/**.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "jasmine-terminal-reporter": "^1.0.3"
+  }
+}
