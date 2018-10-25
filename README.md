@@ -17,7 +17,7 @@ e.g.
 - `1234` is not a plaindrome and `palindrome('1234')` should return `false`
 - `Whatever` is not a plaindrome and `palindrome('1234')` should return `false`
 
-a string is even considered a palindrome, even if spaces or _any non-word/number_ characters are injected
+a string is even considered a palindrome, even if spaces or _any non-word_ characters are injected
 
 - `Abc Cba`  is a palindrome
 - `#!Race Car?`  is a palindrome
